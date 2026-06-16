@@ -10,3 +10,5 @@ while num <= 0:
 while indice <= num:
     print(indice)
     indice += 1
+
+    
